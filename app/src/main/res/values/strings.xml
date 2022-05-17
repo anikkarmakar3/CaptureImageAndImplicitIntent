@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentProject</string>
+    <string name="image_content">This is the image taken from camera</string>
+    <string name="button_text">Click here</string>
+</resources>
